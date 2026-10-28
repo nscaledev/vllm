@@ -172,7 +172,7 @@ cupy-cuda12x==13.6.0
     # via ray
 cycler==0.12.1
     # via matplotlib
-datamodel-code-generator==0.26.3
+datamodel-code-generator==0.62.0
     # via -r requirements/test.in
 dataproperty==1.0.1
     # via
@@ -188,7 +188,7 @@ decorator==5.1.1
     # via librosa
 decord==0.6.0
     # via -r requirements/test.in
-diffusers==0.36.0
+diffusers==0.38.0
     # via terratorch
 dill==0.3.8
     # via
@@ -274,7 +274,7 @@ geopandas==1.0.1
     # via terratorch
 gitdb==4.0.12
     # via gitpython
-gitpython==3.1.44
+gitpython==3.2.1
     # via wandb
 google-api-core==2.24.2
     # via
@@ -536,7 +536,7 @@ networkx==3.2.1
     # via
     #   scikit-image
     #   torch
-nltk==3.9.1
+nltk==3.10.3
     # via rouge-score
 num2words==0.5.14
     # via -r requirements/test.in
@@ -746,7 +746,7 @@ perceptron==0.1.4
     # via -r requirements/test.in
 perf-analyzer==0.1.0
     # via genai-perf
-pillow==10.4.0
+pillow==12.3.0
     # via
     #   diffusers
     #   genai-perf
@@ -1269,7 +1269,7 @@ tqdm==4.67.3
     #   tacoreader
     #   terratorch
     #   transformers
-transformers==4.57.5
+transformers==5.3.0
     # via
     #   -r requirements/test.in
     #   genai-perf
